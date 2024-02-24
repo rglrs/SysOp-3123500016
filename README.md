@@ -14,6 +14,7 @@ Proses booting adalah serangkaian langkah yang dilakukan oleh komputer ketika di
 Proses booting memungkinkan komputer untuk memulai operasi normalnya dan siap digunakan oleh pengguna.
 
 # 2. Bagaimana cara install Debian 12 di Virtualbox
+
 1.Buka virtual box dan klik tombol new
 <img src="pictures/1.png">
 
