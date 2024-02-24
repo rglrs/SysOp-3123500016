@@ -15,7 +15,7 @@ Proses booting memungkinkan komputer untuk memulai operasi normalnya dan siap di
 
 # 2. Bagaimana cara install Debian 12 di Virtualbox
 
-1.Buka virtual box dan klik tombol new
+1.Buka virtual box dan pilih tombol new untuk membuat virtual device
 <img src="pictures/1.png">
 
 2.Beri nama untuk project nya dan pilih iso debian yang ada di storage dan checklist kolom skip
