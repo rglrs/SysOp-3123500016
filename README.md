@@ -1,3 +1,35 @@
+<div align="center">
+  <h1 style="text-align: center;font-weight: bold">Praktikum 1<br>SysOp</h1>
+  <h4 style="text-align: center;">Dosen Pengampu : Dr. Ferry Astika Saputra, S.T., M.Sc.</h4>
+</div>
+<br />
+<div align="center">
+  <img src="pens.jpeg" alt="Logo PENS">
+  <h3 style="text-align: center;">Disusun Oleh : </h3>
+  <p style="text-align: center;">
+    <strong>Roihanah Inayati Bashiroh (3123500005)</strong><br>
+    <strong>Dio Ramadhan Widya Pamungkas (3123500011)</strong><br>
+    <strong>Ragil Ridho Saputra (3122500016)</strong>
+  </p>
+
+  <h3 style="text-align: center;line-height: 1.5">Politeknik Elektronika Negeri Surabaya<br>Departemen Teknik
+    Informatika Dan Komputer<br>Program Studi Teknik Informatika<br>2023/2024</h3>
+  <hr>
+  <hr>
+</div>
+
+## Daftar Isi
+1. [Pendahuluan](#sistem-operasi)
+2. [Soal](#soal)
+3. [Referensi](#referensi)
+
+# Sistem Operasi
+Sistem operasi adalah perangkat lunak yang bertanggung jawab untuk mengelola sumber daya perangkat keras dan menyediakan
+antarmuka bagi pengguna dan aplikasi untuk berinteraksi dengan komputer. Ini mengkoordinasikan tugas-tugas seperti
+alokasi memori, penjadwalan CPU, manajemen file, dan penyediaan layanan jaringan, memungkinkan pengguna untuk
+menjalankan program dengan efisien dan menjalankan fungsi-fungsi dasar seperti mengetik, menyimpan, dan mengakses data.
+
+# Soal
 # 1. Sebutkan dan jelaskan proses booting!
 Proses booting adalah serangkaian langkah yang dilakukan oleh komputer ketika dinyalakan untuk mempersiapkan sistem agar siap digunakan. Proses ini meliputi:
 
@@ -99,3 +131,9 @@ Proses booting memungkinkan komputer untuk memulai operasi normalnya dan siap di
 <img src="pictures/61.png">
 <img src="pictures/63.png">
 <img src="pictures/65.png">
+
+# Referensi
+
+  [Debian Download](https://www.debian.org/download)
+
+  [VirtualBox Download](https://www.virtualbox.org/wiki/Downloads)
