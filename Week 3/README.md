@@ -17,22 +17,48 @@
 ### Install GCC, make, dan GIT
 
 ![App Screenshot](installmakegit.jpg)
+Deskripsi:
+<br>Gambar diatas merupakan penginstalan gcc,make dan git pada linux
+<br>-GCC berguna sebagai compiler untuk menjalankan program flops iops yang menggunakan bahasa C
+<br>-make berguna untuk melakukan compile sebuah kode program sehingga bisa di gunakan
+<br>-GIT berguna untuk mengunduh file yang ada di dalam github
+<br>Langkah-langkah nya sebagai berikut:
+1. Buka terminal pada linux
+2. Lalu ketikkan perintah "sudo apt-get install gcc make git" dan tekan enter
+3. Setelah itu tunggu proses installasi sampai selesai dan bila ada pemberitahuan untuk continue,silahkan yes
 
 ### How to run FLOPS dan IOPS
 
 ![App Screenshot](runflopsiops.jpg)
+<br>Deskripsi:
+<br>Gambar diatas merupakan bagaimana cara untuk menjalan kan program flops dan iops
+<br>Berikut adalah langkah-langkah nya:
+1. Setelah menginstall git,gcc,dan make maka lalukan git clone kepada github bapak ferry astika
+2. Selanjutnya lakukan perintah cd flops-iops
+3. Kemudian lakukan perintah make, make clean, sudo make install
+4. Setelah selesai,lakukan perintah flops64 dan enter.Lalu masukkan jumlah core cpu untuk di benchmark
+5. Untuk menjalankan iops,maka lakukan perintah iops64 dan masukkan jumlah core cpu untuk di benchmark
+6. Lakukan benchmark flops dan iops masing masing sebanyak 5 kali
+<br>
 
 1. Ragil<br>
+   Spesifikasi:
+   <br>
+   AMD Ryzen 5 6600H with Radeon Graphics dan jumlah core 4<br>
    Percobaan FLOPS64 5 kali<br>
    ![App Screenshot](flopsragil.jpg)<br>
    Percobaan IOPS64 5 kali<br>
    ![App Screenshot](iopsragil.jpg)<br>
-2. Hana<br>
+3. Hana<br>
+   Spesifikasi:<br>
+   Intel Core i7-8650U dan jumlah core 4<br>
    Percobaan FLOPS64 5 kali<br>
    ![App Screenshot](flopshana.jpg)<br>
    Percobaan IOPS64 5 kali<br>
    ![App Screenshot](iopshana.jpg)<br>
-3. Dio<br>
+4. Dio<br>
+   Spesifikasi:<br>
+   AMD Ryzen 7 4800H with Radeon Graphics dan jumlah core 2
    Percobaan FLOPS64 5 kali<br>
    ![App Screenshot](flopsdio.jpg)<br>
    Percobaan IOPS64 5 kali<br>
