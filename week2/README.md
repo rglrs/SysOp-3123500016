@@ -39,11 +39,14 @@
 1. Definisi
 Unified Extensible Firmware Interface (UEFI) adalah proses booting pada komputer modern dengan kemampuan lebih canggih dibanding sistem Legacy. UEFI menggunakan firmware URFI untuk menyimpan EFI Service Partitions saat proses booting berlangsung. 
 Sementara, Legacy adalah proses booting komputer dengan firmware BIOS yang lebih lama dan tradisional. 
+<br>
 2. Waktu yang Dibutuhkan
-UEFI membutuhkan waktu booting yang lebih cepat. Sedangkan, Legacy lebih lama. 
+UEFI membutuhkan waktu booting yang lebih cepat. Sedangkan, Legacy lebih lama.
+<br>
 3. Dukungan untuk Penyimpanan
 UEFI sudah menggunakan partisi GUID Partition Table (GTP), sehingga dapat mendukung perangkat penyimpanan hingga 9 zettabytes. 
-Legacy yang masih menggunakan dukungan Master Boot Record (MBR) dapat mendukung perangkat penyimpanan komputer hanya 2 TB. 
+Legacy yang masih menggunakan dukungan Master Boot Record (MBR) dapat mendukung perangkat penyimpanan komputer hanya 2 TB.
+<br>
 4. Keamanan
 UEFI dapat mencegah pemuatan aplikasi yang tak sah atau dicurigai. Selain itu juga dapat menghambat adanya kerja dua boot karena UEFI menganggap sistem operasi adalah aplikasi. 
 ADVERTISEMENT
