@@ -35,7 +35,7 @@
 # Perbedaan Legacy&UEFI
 
 <img src="pictures/UEFI-vs-Legacy.png">
-
+<img src="pictures/uefi dan legacy.drawio.png">
 1. Definisi
 Unified Extensible Firmware Interface (UEFI) adalah proses booting pada komputer modern dengan kemampuan lebih canggih dibanding sistem Legacy. UEFI menggunakan firmware URFI untuk menyimpan EFI Service Partitions saat proses booting berlangsung. 
 Sementara, Legacy adalah proses booting komputer dengan firmware BIOS yang lebih lama dan tradisional. 
