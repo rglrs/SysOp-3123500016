@@ -24,7 +24,7 @@ Program di atas adalah implementasi algoritma penjadwalan First Come First Serve
 
 ### Percobaan Running Program
 
-![App Screenshot](Assets/2.png)
+![App Screenshot](Assets/3.png)
 
 ### Flowchart Shortest Job First Algorithm
 
@@ -39,7 +39,7 @@ Program ini adalah implementasi algoritma Shortest Job First (SJF) dalam C. Algo
 
 ### Percobaan Running Program
 
-![App Screenshot](Assets/3.png)
+![App Screenshot](Assets/2.png)
 
 ### Flowchart Round Robin Algorithm
 
